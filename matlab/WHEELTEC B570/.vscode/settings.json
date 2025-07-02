@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "LED.C": "cpp",
+        "timer.h": "c",
+        "stm32f10x.h": "c",
+        "sys.h": "c",
+        "control.h": "c",
+        "limits": "c"
+    },
+    "python.languageServer": "None",
+    "openmv.languageServer": "Pyright"
+}
